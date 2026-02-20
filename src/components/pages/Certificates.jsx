@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { Card, CardContent } from "../../components/ui/Card";
+import { Card, CardContent } from "../../components/ui/card";
 
 import Header from "../../components/layout/Header";
 import Sidebar from "../../components/layout/Sidebar";
